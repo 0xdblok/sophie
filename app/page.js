@@ -13,14 +13,10 @@ export default function Home() {
       <div class="flex absolute inset-0 z-0 w-full min-h-[658px] max-md:max-w-full"></div>
       <div class="flex z-0 flex-wrap gap-5 items-center py-2.5 pl-2.5 w-full max-w-[1140px] max-md:max-w-full">
         <div class="flex grow shrink gap-5 self-stretch p-2.5 my-auto max-w-[1140px] min-w-[240px] w-[242px]">
-      <Image 
-            width={104}
-            height={104}
-            src={logoc}
-            alt="ffd" />
+
          < Image 
-            width={144}
-            height={28}
+            width={194}
+            height={33}
             src={sophie}
             alt="ffd" />
         </div>
