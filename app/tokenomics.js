@@ -5,14 +5,14 @@ export default function Tokenomics() {
     <section class="flex relative flex-col items-center px-40 py-24 w-full bg-sky-300 max-md:px-5 max-md:max-w-full" aria-labelledby="tokenomics-title">
     <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/638eff12d3d8e801c2fa99da8ae543005bb6a2c73d338a5c973ee06c99704110?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain absolute inset-0 z-0 self-start w-full aspect-[1.93] max-md:max-w-full" alt="Tokenomics Background" />
     <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/e162bdb695c08610f9e936d822ef9bcf41a9e4dbd4d7ecaf1457c385e5999463?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain z-0 max-w-full aspect-[6.58] w-[560px]" alt="Tokenomics Title" />
-    <h2 id="tokenomics-title" class="z-0 mt-5 text-3xl font-bold leading-loose text-center text-white">Total Supply: 1,000,000,000</h2>
+    <h2 id="tokenomics-title" class="z-0 font-mono mt-5 text-3xl font-bold leading-loose text-center text-white">Total Supply: 1,000,000,000</h2>
     
     <div class="z-0 px-px pb-20 mt-5 w-full max-w-[1140px] max-md:max-w-full">
       <div class="flex justify-center items-center gap-5 max-md:flex-col">
         <div class="flex flex-col w-[33%] max-md:ml-0 max-md:w-full">
           <div class="flex flex-col grow justify-center items-center py-9 pr-24 pl-28 w-full font-bold text-center whitespace-nowrap bg-sky-200 rounded-3xl border-white border-solid border-[3px] min-h-[155px] shadow-[0px_8px_0px_rgba(13,21,28,1)] max-md:px-5 max-md:mt-10">
-            <h3 class="text-4xl leading-none uppercase text-neutral-900">Symbol</h3>
-            <p class="mt-5 text-xl text-white">$SOPHIE</p>
+            <h3 class=" text-4xl leading-none uppercase text-neutral-900">Symbol</h3>
+            <p class="font-mono mt-5 text-xl text-white">$SOPHIE</p>
           </div>
         </div>
       

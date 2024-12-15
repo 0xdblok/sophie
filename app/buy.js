@@ -4,7 +4,7 @@ import logo from "./logo.jpg";
 export default function Buy() {
   return (
 <section class="flex flex-col w-full bg-sky-300 max-md:max-w-full" aria-labelledby="how-to-buy-title">
-  <div class="flex relative flex-col justify-center items-center px-20 py-24 w-full min-h-[1444px] max-md:px-5 max-md:max-w-full">
+  <div class="flex font-mono relative flex-col justify-center items-center px-20 py-24 w-full min-h-[1444px] max-md:px-5 max-md:max-w-full">
     <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/b7089c1c8fa60b310f0281b45d5c039c1c63b8e938e19a339242975b0e812f40?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-cover absolute inset-0 size-full" alt="How to Buy Background" />
     
     <div class="flex relative flex-col w-full max-w-[1120px] max-md:max-w-full">

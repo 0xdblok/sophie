@@ -28,7 +28,7 @@ export default function About() {
         class="pr-0.5 pl-px mt-5 w-full max-md:max-w-full"
         role="contentinfo"
       >
-        <p class="text-center">
+        <p class="text-center font-mono">
          Sophie is the meme coin on the Base chain that rewards holders
           with USDC reflections. Enjoy fast, low-cost transactions while earning passive income in a stablecoin. No
           staking required—just hold and profit. Fun meets real value!
