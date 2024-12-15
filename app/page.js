@@ -53,7 +53,7 @@ export default function Home() {
                 <a href="" class="grow shrink self-stretch py-3.5 pr-10 pl-10 bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="Buy Now">
                   Buy Now
                 </a>
-                <a href=""class="grow shrink self-stretch py-3.5 pr-12 pl-12 whitespace-nowrap bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="View Charts">
+                <a href="https://dexscreener.com/base/0x232B43C3515E84e0eEEbcd9DeF91789AeeC27C9F"class="grow shrink self-stretch py-3.5 pr-12 pl-12 whitespace-nowrap bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="View Charts">
                   Charts
                 </a>
               </div>

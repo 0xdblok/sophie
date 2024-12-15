@@ -23,9 +23,9 @@ export default function Tokenomics() {
     <div class="flex z-0 flex-wrap justify-center items-center self-stretch px-5 py-9 mt-5 w-full text-center bg-sky-200 rounded-3xl border-white border-solid border-[3px] min-h-[144px] shadow-[0px_8px_0px_rgba(13,21,28,1)] max-md:max-w-full">
       <div class="flex flex-wrap flex-1 shrink gap-10 items-center self-stretch py-2.5 pr-44 pl-11 my-auto w-full basis-0 min-w-[240px] max-md:px-5 max-md:max-w-full">
         <h3 class="self-stretch my-auto text-4xl font-bold leading-none uppercase  text-neutral-900">Token Address</h3>
-        <div class="flex flex-col grow shrink justify-center self-stretch p-2 my-auto text-sm text-white border-2 border-white border-solid bg-slate-700 min-w-[240px] rounded-[30px] shadow-[0px_0px_10px_rgba(0,0,0,0.5)] w-[344px]">
-          <div class="flex justify-center items-center px-2.5 py-2.5 w-full min-w-[100px]">
-            <p class="self-stretch my-auto font-bold select-all">tba</p>
+        <div class="flex flex-col grow shrink justify-center self-stretch p-2 my-auto text-sm text-white border-2 border-white border-solid bg-slate-700 min-w-[260px] rounded-[30px] shadow-[0px_0px_10px_rgba(0,0,0,0.5)] w-[344px]">
+          <div class="flex justify-center items-center px-2.5 py-2.5 w-full min-w-[120px]">
+            <p class=" text-xs font-bold select-all break-words">0x2FC1DaB2E705fDD9F619f066b87c629CBCEb91c1</p>
           </div>
         </div>
       </div>
