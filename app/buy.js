@@ -28,7 +28,7 @@ export default function Buy() {
           <div class="flex flex-col grow">
             <h3 class="text-4xl leading-none uppercase text-neutral-900">Get Some Base ETH</h3>
             <p class="mt-5 text-xl leading-8 text-white">
-              Have Base ETH in your wallet and swap it in $baseprinter. If you don't have any base, you can buy base from an exchange or cross chain swap and send it to your wallet.
+              Have Base ETH in your wallet and swap it in $SOPHIE. If you don't have any base, you can buy base from an exchange or cross chain swap and send it to your wallet.
             </p>
           </div>
         </div>
@@ -40,7 +40,7 @@ export default function Buy() {
           <div class="flex flex-col grow">
             <h3 class="text-4xl leading-none uppercase  text-neutral-900">Go to Uniswap</h3>
             <p class="mt-5 text-xl leading-8 text-white">
-              Connect to Uniswap. Go Uniswap.net in google chrome or on the browser inside your base Wallet. Connect your wallet. Paste the $baseprinter token address into Uniswap swap and confirm the swap. When base Wallet prompts you for a wallet signature, sign.
+              Connect to Uniswap. Go Uniswap.net in google chrome or on the browser inside your base Wallet. Connect your wallet. Paste the $SOPHIE token address into Uniswap swap and confirm the swap. When base Wallet prompts you for a wallet signature, sign.
             </p>
           </div>
         </div>
