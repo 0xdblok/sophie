@@ -14,7 +14,7 @@ export default function Buy() {
         <div class="flex gap-5 max-md:flex-col w-full">
           <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/174f918dc9caab7ffde25390bf0d5d951305fd6e2cdcfca6b3617a4d96e7a0a1?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain w-[142px] aspect-[1.01] rounded-[200px]" alt="Create Wallet Icon" />
           <div class="flex flex-col grow">
-            <h3 class="text-4xl leading-none uppercase border border-black border-solid text-neutral-900">Create a metamask wallet</h3>
+            <h3 class="text-4xl leading-none uppercase  text-neutral-900">Create a metamask wallet</h3>
             <p class="mt-5 text-xl leading-8 text-white">
               Download MetaMask or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to their site.
             </p>
@@ -26,7 +26,7 @@ export default function Buy() {
         <div class="flex gap-5 max-md:flex-col w-full">
           <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/59ebae100706d6625d27dced7269970f53656cdd9a3c05fbf1dfa8baeb6a5f89?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain w-[142px] aspect-[1.01] rounded-[200px]" alt="Get Base ETH Icon" />
           <div class="flex flex-col grow">
-            <h3 class="text-4xl leading-none uppercase border border-black border-solid text-neutral-900">Get Some Base ETH</h3>
+            <h3 class="text-4xl leading-none uppercase text-neutral-900">Get Some Base ETH</h3>
             <p class="mt-5 text-xl leading-8 text-white">
               Have Base ETH in your wallet and swap it in $baseprinter. If you don't have any base, you can buy base from an exchange or cross chain swap and send it to your wallet.
             </p>
@@ -38,7 +38,7 @@ export default function Buy() {
         <div class="flex gap-5 max-md:flex-col w-full">
           <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/f0365fa87aaca93d0eeb876d23af326f675f282e70433ccd27264bdee6fcf753?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain w-[142px] aspect-[1.01] rounded-[200px]" alt="Uniswap Icon" />
           <div class="flex flex-col grow">
-            <h3 class="text-4xl leading-none uppercase border border-black border-solid text-neutral-900">Go to Uniswap</h3>
+            <h3 class="text-4xl leading-none uppercase  text-neutral-900">Go to Uniswap</h3>
             <p class="mt-5 text-xl leading-8 text-white">
               Connect to Uniswap. Go Uniswap.net in google chrome or on the browser inside your base Wallet. Connect your wallet. Paste the $baseprinter token address into Uniswap swap and confirm the swap. When base Wallet prompts you for a wallet signature, sign.
             </p>
