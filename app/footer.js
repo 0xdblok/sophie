@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
         
         <p class="text-sm leading-none text-center text-white">
-          sophie© All Rights Reserved
+          sophie © All Rights Reserved
         </p>
       </div>
     </div>
