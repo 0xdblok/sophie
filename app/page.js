@@ -1,5 +1,7 @@
 import Image from "next/image";
 import logo from "./logo.jpg";
+import logoc from "./logoc.png";
+import sophie from "./sophie.png";
 import Footer from './footer';
 import Buy from './buy';
 import About from './about';
@@ -7,16 +9,20 @@ import Tokenomics from './tokenomics';
 export default function Home() {
   return (
     <div class="flex flex-col bg-white">
-    <nav class="flex relative flex-col pt-2.5 pr-36 pb-20 pl-36 w-full bg-slate-700 max-md:px-5 max-md:max-w-full" aria-label="Main navigation">
+    <nav class="flex bg-[#0149B0] relative flex-col pt-2.5 pr-36 pb-20 pl-36 w-full bg-slate-700 max-md:px-5 max-md:max-w-full" aria-label="Main navigation">
       <div class="flex absolute inset-0 z-0 w-full min-h-[658px] max-md:max-w-full"></div>
       <div class="flex z-0 flex-wrap gap-5 items-center py-2.5 pl-2.5 w-full max-w-[1140px] max-md:max-w-full">
         <div class="flex grow shrink gap-5 self-stretch p-2.5 my-auto max-w-[1140px] min-w-[240px] w-[242px]">
       <Image 
-            width={44}
-            height={44}
-            src={logo}
+            width={104}
+            height={104}
+            src={logoc}
             alt="ffd" />
-         <p> on base</p>
+         < Image 
+            width={144}
+            height={28}
+            src={sophie}
+            alt="ffd" />
         </div>
         <div class="flex flex-col grow shrink justify-center self-stretch my-auto text-2xl font-bold text-white whitespace-nowrap bg-white bg-opacity-0 min-h-[35px] min-w-[240px] w-[611px] max-md:max-w-full">
           <div class="flex flex-wrap flex-1 gap-8 justify-center px-7 size-full max-md:px-5 max-md:max-w-full">
