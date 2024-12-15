@@ -31,12 +31,12 @@ export default function Home() {
             <a href="" class="flex flex-col grow shrink justify-center w-[140px] hover:text-sky-300 focus:outline-none focus:ring-2 focus:ring-sky-300 rounded-md" tabindex="0">
               <div class="flex-1 self-stretch px-4 py-px rounded-md size-full">Tokenomics</div>
             </a>
-            <a href="community" class="flex flex-col grow shrink justify-center w-[138px] hover:text-sky-300 focus:outline-none focus:ring-2 focus:ring-sky-300 rounded-md" tabindex="0">
+            <a href="https://warpcast.com/0xthegreed/0x63fa13dcfe7ae85d55be876111e4b587e10640e5" class="flex flex-col grow shrink justify-center w-[138px] hover:text-sky-300 focus:outline-none focus:ring-2 focus:ring-sky-300 rounded-md" tabindex="0">
               <div class="flex-1 self-stretch px-4 py-px rounded-md size-full">Community</div>
             </a>
           </div>
         </div>
-        <a href="" class="grow shrink self-stretch py-3.5 pr-10 pl-10 my-auto text-2xl font-bold leading-none text-center bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] text-zinc-900 w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="Buy Now">
+        <a href="https://www.clanker.world/clanker/0x2FC1DaB2E705fDD9F619f066b87c629CBCEb91c1" class="grow shrink self-stretch py-3.5 pr-10 pl-10 my-auto text-2xl font-bold leading-none text-center bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] text-zinc-900 w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="Buy Now">
           Buy Now
         </a>
       </div>
@@ -50,7 +50,7 @@ export default function Home() {
 
               <p class="mt-5 ml-4 text-2xl max-md:ml-2.5">Print like crazy, only on base</p>
               <div class="flex flex-wrap gap-10 items-start self-stretch mt-9 w-full text-2xl text-center text-zinc-900 max-md:max-w-full">
-                <a href="" class="grow shrink self-stretch py-3.5 pr-10 pl-10 bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="Buy Now">
+                <a href="https://app.uniswap.org/swap?chain=base&inputCurrency=0x4200000000000000000000000000000000000006&outputCurrency=0x2fc1dab2e705fdd9f619f066b87c629cbceb91c1&value=0.12&field=input" class="grow shrink self-stretch py-3.5 pr-10 pl-10 bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="Buy Now">
                   Buy Now
                 </a>
                 <a href="https://dexscreener.com/base/0x232B43C3515E84e0eEEbcd9DeF91789AeeC27C9F"class="grow shrink self-stretch py-3.5 pr-12 pl-12 whitespace-nowrap bg-white rounded-xl border-solid border-[3px] border-zinc-900 shadow-[0px_4px_0px_rgba(39,64,85,1)] w-[136px] max-md:px-5 hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-300" aria-label="View Charts">
