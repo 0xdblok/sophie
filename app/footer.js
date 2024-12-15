@@ -30,16 +30,7 @@ export default function Footer() {
                     alt="ffd" />
                     <span class="sr-only">Twitter</span>
                   </a>
-                  <a href="" class="self-stretch px-4 bg-sky-300 border-white border-solid border-[3px] h-[62px] rounded-[40px] w-[62px] hover:bg-sky-400 focus:outline-none focus:ring-2 focus:ring-sky-500" aria-label="Telegram">
-                    
-                    <Image 
-                    className="pt-4 flex justify-center items-center"
-                    width={802}
-                    height={802}
-                    src={telegram}
-                    alt="ffd" />
-                    <span class="sr-only">Telegram</span>
-                  </a>
+                 
                 </div>
                 
                 <div class="flex items-center mt-5 text-right text-white">
