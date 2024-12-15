@@ -56,7 +56,7 @@ export default function Buy() {
             alt="ffd" />
 
           <div class="flex flex-col grow">
-            <h3 class="text-4xl leading-none uppercase border border-black border-solid text-neutral-900">Swap base for baseprinter</h3>
+            <h3 class="text-4xl leading-none uppercase  text-neutral-900">Swap base for SOPHIE</h3>
             <p class="mt-5 text-xl leading-8 text-white">
               Switch base for $SOPHIE. We have a certain amount of taxes so you need to recheck buying with a specific slippage, although you may need to use slippage during times of market volatility.
             </p>
