@@ -11,8 +11,12 @@ export default function Home() {
       <div class="flex absolute inset-0 z-0 w-full min-h-[658px] max-md:max-w-full"></div>
       <div class="flex z-0 flex-wrap gap-5 items-center py-2.5 pl-2.5 w-full max-w-[1140px] max-md:max-w-full">
         <div class="flex grow shrink gap-5 self-stretch p-2.5 my-auto max-w-[1140px] min-w-[240px] w-[242px]">
-          <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/f2c48b179ce0240f50524ade99fbd6869aa4294cba2c106b295d1e0c06ffff8e?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain shrink-0 aspect-square w-[71px]" alt="Base Printer Logo Icon" />
-          <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/976d37148ca219a0c80b7b343e940ec905decb15b3dc68614442aabf2f6c63d6?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3" class="object-contain shrink-0 my-auto max-w-full aspect-[7.19] w-[165px]" alt="Base Printer Text Logo" />
+      <Image 
+            width={44}
+            height={44}
+            src={logo}
+            alt="ffd" />
+         <p> on base</p>
         </div>
         <div class="flex flex-col grow shrink justify-center self-stretch my-auto text-2xl font-bold text-white whitespace-nowrap bg-white bg-opacity-0 min-h-[35px] min-w-[240px] w-[611px] max-md:max-w-full">
           <div class="flex flex-wrap flex-1 gap-8 justify-center px-7 size-full max-md:px-5 max-md:max-w-full">
